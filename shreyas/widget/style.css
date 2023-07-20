@@ -1,0 +1,25 @@
+.bgbabyblue{
+    background: #a0d8f3;
+}
+.posRight10px{right: 10px;}
+.posBtm10px{bottom: 10px;}
+.height100p{ height: 100%; }
+.archivoblack{ font-family: archivoblack; }
+.font12{ font-size: 12px; }
+.flexJustifyEnd{ -webkit-justify-content: flex-end; -ms-flex-pack: flex-end; justify-content: flex-end; }
+.posBtm{bottom: 0;}
+.flexAlignContentEnd{ -webkit-box-align-content: flex-end; -webkit-align-content: flex-end; -ms-flex-align-content: flex-end; align-content: flex-end; }
+.textbgred {
+    background: #f00;
+}
+.color-white{ color: white !important; }
+.pad5{padding: 5px !important;}
+.pad10{padding: 10px !important;}
+.mrgnright10{margin-right: 10px !important;}
+.fontweight400{ font-weight: 400 !important; }
+.maxheight88{max-height:88px;}
+.font16{ font-size: 16px; }
+
+/************* Add your css here ****************/
+
+/*************************** css end **************************8*/

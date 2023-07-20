@@ -1,0 +1,117 @@
+@media only screen and (min-device-width : 768px) and (max-device-width : 1020px) {
+.main-header-bottom-left {
+    width: 5%;
+}
+ .main-header-bottom-center {
+    width: 85%;
+}
+}
+@media only screen and (max-device-width : 1050px){
+  .stories-heading {
+    font-size: 32px;
+  }
+  .mr-md30{margin-right: 30px}
+  .ml-md15{margin-left: 15px}
+  .ml-md20{margin-left: 20px}
+  .mr-md15{margin-right: 15px}
+ 
+  .mb-md10{margin-bottom: 10px;}
+  
+  .topstories-panel-h4,.subcat-section-topstories-heading-h4,.generalnews-heading .generalnews-heading-h4,politicsnews-heading .politicsnews-heading-h4{
+     font-size: 31px;
+  }
+  .topstories-panel-h4{
+         line-height: 37px;
+    }
+}
+
+@media only screen and (min-device-width : 951px) and (max-device-width : 1050px) {
+  .mr-md25{margin-right: 25px}
+  .sub-cat-right-stories {
+        width: calc(25% + 15px);
+  }
+  .sub-cat-live-sec {
+    width: calc(30% + 15px);
+  } 
+  .sub-cat-left-stories {
+      width: calc(39% + 15px);
+  }
+  .channel-card::after{right: -12px;}
+  .shows-channel-center-descriptor{padding-top: 10px}
+  .covid-section-info-text{width:85%}
+  .covidstory-content .covidstory-content-para{font-size: 22px;}
+  .generalnews-card-content .generalnews-bttm-content-heading,.story-box-content .story-box-content-heading{font-size: 20px}
+  .politicsnews-section-card:after {
+        right: -15px;
+    }
+  .sub-category-mustsee-wrapper .story-box::after {
+        right: -12px;
+  }
+  .republic-info-content .republic-info-content-para{
+     line-height: 28px;   
+  }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 950px) {
+    .flexwrap{flex-wrap: wrap;}
+    .smpadright30{padding-right: 30px}
+    .smmr0{margin-right: 0 !important}
+    .smmr25{margin-right: 25px !important}
+    .smmr15{margin-right: 15px !important}
+    .smmar0{margin: 0 !important}
+    .smpadY15{padding:0 15px}
+    .smpadtop20{padding-top: 20px}
+    .smpadbttm20{padding-bottom: 20px}
+    .smpadbttm0{padding-bottom: 0}
+    .sub-cat-left-stories{
+        width:60%;
+    }
+    .sub-cat-right-stories {
+        width: 40%;
+    }
+    .widthsm100{
+        width: 100%
+    }
+    .widsm50{width:50%}
+    .widsm25{width:25%}
+    .smpadtop50{padding-top:50px}
+    .smpadbttm50{padding-bottom:50px}
+    .sub-cat-live-wrapper {
+        margin: auto;
+    }
+    .smmrtop20{
+        margin-top: 20px
+    }
+    .smbrnone{
+        border: none;
+    }
+    .sub-live-adv-img {
+        width: 400px;
+        margin: auto;
+    }
+    .sub-head-stories{padding: 15px 0}
+    .sub-live-adv-sec:first-child{padding-bottom: 0}
+    .channel-card::after{display:none}
+    .shows-channel-center-descriptor{padding-top: 5px;}
+    .subcat-shows-ad {width: 50%;margin: 0 auto; margin-top: 20px;}
+    .subcat-covid-section-info-card{width: 350px; margin: auto;}
+    .covid-section-info-text{width: 250px;padding: 30px 15px 20px 20px;height:150px}
+    .subcat-covid-section-info {padding-top: 0px;}
+    .covideheros-card{padding-bottom: 20px}
+    .smbrtopdotted{border-top: 2px dotted #000}
+    .smbrbttmdotted{border-bottom: 2px dotted #000}
+    .generalnews-card-content .generalnews-bttm-content-heading, .story-box-content-heading {font-size: 16px;}
+    .politicsnews-section-card:after {right: -12px;}
+    .gallary-section-content-heading{font-size: 22px}
+    .gallary-story-info-content-heading{
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 19px;
+    }
+    .sub-category-mustsee-wrapper .story-box::after {
+        right: -8px;
+    }
+    
+}
